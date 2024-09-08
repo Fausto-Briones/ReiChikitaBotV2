@@ -1,4 +1,4 @@
-name: Example Workflow
+name: Deploy Workflow
 
 on: [push]
 
